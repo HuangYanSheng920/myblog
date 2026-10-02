@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一口气了解化债和中国财政体系 
+title: "一口气了解化债和中国财政体系"
 date:  2026-10-02
 categories: jekyll update
 ---
