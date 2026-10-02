@@ -1,12 +1,12 @@
 # 站点配置
-title = "我的博客"
+title = "渔丈人的博客"
 description = "用 Python 手搓的轻量静态博客"
-author = "huangyansheng"
+author = "yuzhangren"
 lang = "zh-CN"
 
 # 站点完整地址，仅用于 RSS 里的绝对链接
 # 独立域名部署时改回 ""
-base_url = "https://huangyansheng920.github.io/myblog"
+base_url = "https://yuzhangren920.github.io/myblog"
 
 posts_dir = "posts"     # 文章目录
 output_dir = "site"     # 构建输出目录
